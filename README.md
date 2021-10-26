@@ -4,7 +4,7 @@
 ## __내소개__
  * 정지원 <bella0601@naver.com>
  * 정말 신기하다!!
- * http://wow/MyFirstPage
+ * http://mywork/MyFirstPage
 
 ## __오늘의 할 일__
  * [x] 디지털아트 프로그래밍 실강듣기
