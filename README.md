@@ -12,4 +12,7 @@
  * [ ] 연습하기
 
 
+>아무거나 적어봐야지<
+
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
